@@ -9,7 +9,7 @@ public class Vehicle implements Comparable<Vehicle>
 	private LocalDate manufacturingDate;
 	private double netPrice;  // basePrice+colorCost
 	private String company;
-	private boolean isAvailable;
+	private boolean isAvailable;  
 	
 	public Vehicle()
 	{
